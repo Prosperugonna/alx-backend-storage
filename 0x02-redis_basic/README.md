@@ -1,3 +1,3 @@
 ## REDIS BASICS
 
-The introduction to redis
+The introduction to redis basics
